@@ -1,0 +1,18 @@
+.link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  @media (min-width: 768px) {
+    .link {
+      min-width: 768px;
+      display: inline;
+      font-size: 16px;
+      line-height: 18px;
+      padding-right: 18px;
+    }
+  }

@@ -1,0 +1,17 @@
+.place__website {
+    min-width: 352px;
+    display: none;
+    box-sizing: border-box;
+    align-self: end;
+  }
+  
+  @media (min-width: 768px) {
+    .place__website {
+      display: initial;
+      grid-column-start: 2;
+      grid-column-end: 3;
+      grid-row-start: 1;
+      grid-row-end: 2;
+      padding-bottom: 48px;
+    }
+  }  

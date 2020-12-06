@@ -1,0 +1,21 @@
+.footer__coperight {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    color: #ffffff;
+    display: flex;
+    padding-top: 48px;
+    min-width: 186px;
+    margin: 0;
+  }
+  
+  @media (min-width: 768px) {
+    .footer__coperight  {
+      min-width: 168px;
+      display: inline;
+      font-size: 14px;
+      line-height: 16px;
+      padding: 0;
+    }
+  }

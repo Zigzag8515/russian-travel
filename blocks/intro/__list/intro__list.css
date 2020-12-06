@@ -1,0 +1,29 @@
+.intro__list {
+    font-family: Inter;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #ffffff;
+    padding: 0 16px 64px 16px;
+    list-style-type: none;
+    margin: 0 auto;
+  }
+
+  @media (min-width: 768px) {
+    .intro__list { 
+      padding: 0 24px 88px 24px;
+      min-width: 720px;
+    }
+
+  @media (min-width: 1024px) {
+      .intro__list { 
+        padding: 0 286px 92px 48px;
+        min-width: 690px;
+    }
+      }
+  
+  @media (min-width: 1280px) {
+        .intro__list {
+        padding: 0 442px 92px 148px;
+      }
+        }

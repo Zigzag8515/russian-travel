@@ -1,0 +1,23 @@
+@media (min-width: 768px) {
+    .place__web {
+      grid-row: 2/3;
+      grid-column: 2/3;
+      min-width: 352px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .place__web {
+      grid-row: 2/3;
+      grid-column: 2/3;
+      min-width: 456px;
+    }
+  }
+  
+  @media (min-width: 1280px) {
+    .place__web {
+      grid-row: 2/3;
+      grid-column: 2/3;
+      min-width: 484px;
+    }
+  }

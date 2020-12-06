@@ -1,0 +1,32 @@
+.cover {
+    min-width: 320px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 66px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  @media (min-width: 768px) {
+    .cover {
+     max-width: 768px;
+     padding-top: 90px;
+    }
+  }  
+  
+  @media (min-width: 1024px) {
+    .cover {
+     max-width: 1024px;
+     padding-top: 92px;
+    }
+  }  
+  
+  @media (min-width: 1280px) {
+    .cover {
+     max-width: 1280px;
+     padding: 92px 48px 0px 48px;
+    }
+  }
+  
