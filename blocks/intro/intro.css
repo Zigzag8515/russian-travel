@@ -5,18 +5,19 @@
     box-sizing: border-box;
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 768px){
     .intro {
       min-width: 768px;
     }
 
-  @media (min-width: 1024px) {
+  @media (min-width: 1024px){
       .intro { 
         min-width: 1024px;
        
     }
       }
-  @media (min-width: 1280px) {
+
+  @media (min-width: 1280px){
       .intro { 
         min-width: 1280px;  
       }
