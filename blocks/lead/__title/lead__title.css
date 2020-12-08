@@ -21,7 +21,8 @@
       padding-right: 24px;
       padding-left: 24px;
     }
-
+  }
+  
     @media (min-width: 1024px) {
       .lead__title { 
         padding-right: 152px;
