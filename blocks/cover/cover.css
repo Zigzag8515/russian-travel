@@ -1,5 +1,5 @@
 .cover {
-    min-width: 320px;
+    max-width: 320px;
     display: flex;
     flex-direction: column;
     position: relative;

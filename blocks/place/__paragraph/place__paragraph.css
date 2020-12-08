@@ -16,6 +16,7 @@
   @media (min-width: 768px) {
     .place__paragraph {
       padding-right: 48px;
+      padding-left: 0;
     }
   }
   
